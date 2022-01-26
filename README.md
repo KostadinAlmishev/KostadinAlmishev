@@ -1,7 +1,4 @@
-<h2>Welcome Hacker !!! <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/source.gif" width="50"></h2>
-
-<img width="300" align='right' src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif">
-
+<h2><img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/source.gif" width="50"></h2>
 
 **Languages**
 
@@ -23,7 +20,6 @@
 ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
  
 <img src="https://github-readme-stats.vercel.app/api?username=KostadinAlmishev&show_icons=true&theme=dracula&line_height=32">
-
 
 <!--
 **KostadinAlmishev/KostadinAlmishev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
